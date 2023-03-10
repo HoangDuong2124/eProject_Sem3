@@ -17,6 +17,7 @@ namespace eProject_Sem3.Controllers
         {
             return View();
         }
+         // test
 
         public IActionResult Privacy()
         {
